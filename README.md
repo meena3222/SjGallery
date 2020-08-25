@@ -14,7 +14,7 @@ LeafPic is now available in a beta release on the Play Store, you can join [here
 <a href="https://play.google.com/store/apps/details?id=org.horaapps.sjgallery">
     <img alt="Get it on Google Play"
         height="80"
-        src="https://lh3.googleusercontent.com/jVMEy-VKcUm1d8mmIBihjT23ThmG_2G21zCCS2Ngd1xQYRMrqSHr40ugDDNqn41u23pn=s180-rw" />
+        src="https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png" />
 </a>
 </div>
 </br></br>
